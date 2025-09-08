@@ -1,2 +1,2 @@
 def stringLast(stringInput):
-    return stringInput[-1]
+    return stringInput[len(stringInput)- 1]
