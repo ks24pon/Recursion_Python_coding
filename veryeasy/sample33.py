@@ -1,0 +1,5 @@
+print("P")
+print(2022)
+print("I am learning primitive data. #RecursionCS")
+print(12.3)
+print(False)
