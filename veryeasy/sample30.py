@@ -1,0 +1,5 @@
+print(True)
+print(False)
+print(9999)
+print(0b1111)
+print(0b11)
